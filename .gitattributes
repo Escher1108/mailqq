@@ -1,0 +1,3 @@
+*.php linguist-language=PHP
+*.html linguist-language=html
+*.css linguist-language=css
