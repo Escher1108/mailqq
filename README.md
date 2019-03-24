@@ -1,5 +1,9 @@
-一个模拟腾讯QQ邮箱登录界面的钓鱼平台，有前端+后台控制。
-
-本项目只是测试，请不要用于违法！！！
-
-请下载save、index.html、images、css、login_cheak.php文件上传至服务器即可！！！
+<html>
+  <head>一个模拟腾讯QQ邮箱登录界面的钓鱼平台，有前端+后台控制。</head>
+  <body>
+    <h2>警告：</h2>
+    <p>本项目只是测试，请不要用于违法！！！</p>
+    <h2>使用说明：</h2>
+    <p>下载save、index.html、images、css、login_cheak.php这五个文件上传至服务器即可！！！</p>
+  </body>
+</html>
