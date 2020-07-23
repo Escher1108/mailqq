@@ -6,6 +6,6 @@
     <p>本项目只是测试，请不要用于违法！！！</p>
     <h2>使用说明：</h2>
     <p>下载save、index.html、images、css、login_cheak.php这五个文件上传至服务器即可！！！</p>
-    <p>特别说明：images中的图片请根据原库中的链接下载保存在images中。由于本人电脑原因，git不能正常上传文件！</p>
+    <p><s>特别说明：images中的图片请根据原库中的链接下载保存在images中。由于本人电脑原因，git不能正常上传文件！</s></p>
   </body>
 </html>
