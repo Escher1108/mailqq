@@ -34,7 +34,7 @@ body{
 	width: 182px;
 	height: 35px;
 	margin-top: 14px;
-	background: url('../images/qqmail_logo_default_35h206ff1.png') no-repeat;
+	background: url('https://rescdn.qqmail.com/zh_CN/htmledition/images/webp/logo/qqmail/qqmail_logo_default_35h206ff1.png') no-repeat;
 	}
 .header_link{
 	padding-right: 40px;
@@ -81,7 +81,7 @@ body{
 .pic{
 	height: 400px;
 	width: 520px;
-	background: url('https://rescdn.qqmail.com/zh_CN/htmledition/images/webp/tg-silence1e9c5d.jpg') right 40px ;
+	background: url('https://rescdn.qqmail.com/zh_CN/htmledition/images/webp/tg-chang1ea8a2.png') right 40px ;
 	background-repeat: no-repeat;
 	}
 .txt{
