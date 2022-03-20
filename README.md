@@ -25,11 +25,15 @@
 
 修改[requst.js](https://github.com/Escher1108/mailqq/blob/master/js/request.js) 文件中的URL，具体如下：
 
+https://store.heytapimage.com/cdo-portal/feedback/202202/18/ecea7aff1644bc70ca30880144953cb3.png
+
 ![](https://store.heytapimage.com/cdo-portal/feedback/202202/18/ecea7aff1644bc70ca30880144953cb3.png)
 
 这里的 请求接口是你自己搭建的腾讯云报警短信接口，本人使用的Node.js，教程中提供的是PHP，二者大佬们自己选择，如果搭建php版本遇到跨域问题，可以尝试我的工具 ”[cors 工具](https://cors.jspproxy.cyou)“
 
-##### 有没有成功案例？答：有
+##### 有没有成功案例？答：有，如下图
+
+https://store.heytapimage.com/cdo-portal/feedback/202202/18/1623fdce574f7e13b2115ab66dea7885.png
 
 ![](https://store.heytapimage.com/cdo-portal/feedback/202202/18/1623fdce574f7e13b2115ab66dea7885.png)
 
